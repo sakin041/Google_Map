@@ -2,15 +2,15 @@
 
 A new Flutter application.
 
-## Getting Started
+IDE: Android Studio (Flutter)
 
-This project is a starting point for a Flutter application.
+To run the project-
+1. Open android studio
+2. Run a emulator
+3. Then run the main.dart file
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features-
+1. User can full Screen google map
+2. User Can See his/her location with a location marker
+3. User can click any loaction with a marker
+4. User can see latitude and longitude to click on the latlong button 
